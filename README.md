@@ -1,4 +1,8 @@
 # The-excel-projects
 These are excel based data analyst projects with interactive dashboards
 
-## hich include 
+## which include
+*HR Data Analysis
+*Coffee Sales Analysis
+*Road Accidents Analysis
+*BlinkIt Sales Analysis
